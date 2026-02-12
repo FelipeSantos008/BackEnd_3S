@@ -1,0 +1,14 @@
+C:\Users\90124765858\Desktop\BackEnd_3S\RevisaoPOO\Exercicio05\bin\Debug\net10.0\Exercicio05.exe
+C:\Users\90124765858\Desktop\BackEnd_3S\RevisaoPOO\Exercicio05\bin\Debug\net10.0\Exercicio05.deps.json
+C:\Users\90124765858\Desktop\BackEnd_3S\RevisaoPOO\Exercicio05\bin\Debug\net10.0\Exercicio05.runtimeconfig.json
+C:\Users\90124765858\Desktop\BackEnd_3S\RevisaoPOO\Exercicio05\bin\Debug\net10.0\Exercicio05.dll
+C:\Users\90124765858\Desktop\BackEnd_3S\RevisaoPOO\Exercicio05\bin\Debug\net10.0\Exercicio05.pdb
+C:\Users\90124765858\Desktop\BackEnd_3S\RevisaoPOO\Exercicio05\obj\Debug\net10.0\Exercicio05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90124765858\Desktop\BackEnd_3S\RevisaoPOO\Exercicio05\obj\Debug\net10.0\Exercicio05.AssemblyInfoInputs.cache
+C:\Users\90124765858\Desktop\BackEnd_3S\RevisaoPOO\Exercicio05\obj\Debug\net10.0\Exercicio05.AssemblyInfo.cs
+C:\Users\90124765858\Desktop\BackEnd_3S\RevisaoPOO\Exercicio05\obj\Debug\net10.0\Exercicio05.csproj.CoreCompileInputs.cache
+C:\Users\90124765858\Desktop\BackEnd_3S\RevisaoPOO\Exercicio05\obj\Debug\net10.0\Exercicio05.dll
+C:\Users\90124765858\Desktop\BackEnd_3S\RevisaoPOO\Exercicio05\obj\Debug\net10.0\refint\Exercicio05.dll
+C:\Users\90124765858\Desktop\BackEnd_3S\RevisaoPOO\Exercicio05\obj\Debug\net10.0\Exercicio05.pdb
+C:\Users\90124765858\Desktop\BackEnd_3S\RevisaoPOO\Exercicio05\obj\Debug\net10.0\Exercicio05.genruntimeconfig.cache
+C:\Users\90124765858\Desktop\BackEnd_3S\RevisaoPOO\Exercicio05\obj\Debug\net10.0\ref\Exercicio05.dll
